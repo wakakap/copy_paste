@@ -1,6 +1,6 @@
 # copy_paste
 
-##pdf_copy_change.py 
+## pdf_copy_change.py 
 
 用于解决pdf复制文字出现多余空行问题。检测对象为'\r\n'。
 
